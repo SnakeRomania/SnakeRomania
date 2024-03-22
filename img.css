@@ -1,0 +1,90 @@
+.logo-ro{
+    width: 500px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.snake-logo {
+    width: 170px;
+    display: inline-block;
+    border-radius: 85px;
+    margin-left: 770px;
+    margin-top: -100px;
+}
+
+.gold-title {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 500px;
+}
+
+.autoplay {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.gold-ex {
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    border: 2px solid #ff001f;
+}
+
+.gold-33-ore {
+    width: 350px;
+    border-radius: 45px;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-right: 70px;
+    border: 2px solid white;
+}
+
+.gold-3-zile {
+    width: 350px;
+    border-radius: 45px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid white;
+}
+
+.gold33, gold3 {
+
+    display:block; 
+    float:left; 
+}
+
+.gold-10-zile {
+    width: 350px;
+    border-radius: 45px;
+    margin-top: 130px;
+    margin-left: 90px;
+    margin-right: 70px;
+    border: 2px solid white;
+}
+
+.gold33, gold10 {
+
+    display:block; 
+    float:bottom; 
+}
+
+.gold-20-zile {
+    width: 350px;
+    border-radius: 45px;
+    margin-top: 130px;
+    border: 2px solid white;
+}
+
+.gold10, gold20 {
+
+    
+    float: left;
+}
